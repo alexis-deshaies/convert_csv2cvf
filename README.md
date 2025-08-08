@@ -1,0 +1,4 @@
+- Excel : Consolider les contacts avec les colonnes du modèle, remplacer les "éèïçëô" et sauvegarder en CSV
+- Notepad : sauvegarder en UTF8
+- PowerShell : executer le script (adapter les chemins si besoin)
+- Outlook : glisser / déplacer les vcf dans contacts
